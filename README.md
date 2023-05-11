@@ -1,4 +1,4 @@
-## FOLLOW THE STEPS TO RUN THE TEST
+## FOLLOW THESE STEPS TO RUN THE TEST
 - Create a folder on your local machine where you want to install cypress
 - Then, install cypress in that folder by running the following command in the terminal
   npm install cypress --save-dev 
